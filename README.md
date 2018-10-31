@@ -57,6 +57,22 @@ https://developer.apple.com/documentation/uikit/uinavigationcontroller)
 ### 📱 Demos
 
 * Run native mobile apps in your browser: [Appetize.io](https://appetize.io)
+* Create unwind segues: [Link](https://medium.com/@mimicatcodes/create-unwind-segues-in-swift-3-8793f7d23c6f)
+* UIPickerView example: [Link](https://codewithchris.com/uipickerview-example/)
+
+ ### Adding Icons
+ * Iconos8: [Link](https://iconos8.es)
+ * Flaticon: [Link](https://www.flaticon.com)
+ * Iconfinder: [Link](https://www.iconfinder.com)
+ * Pixellove: [Link](https://www.pixellove.com)
+ 
+ ### Defining Colors
+ * Web design rankings: [Link](https://www.webdesignrankings.com/resources/lolcolors/)
+ * Adobe Color: [Link](https://color.adobe.com/es/create/color-wheel/)
+
+ ### Style Guidelines
+ * Swift: [Link](https://swift.org/documentation/api-design-guidelines/)
+ * Google: [Link](https://google.github.io/swift/)
 
 ### :newspaper: Stay updated
 
